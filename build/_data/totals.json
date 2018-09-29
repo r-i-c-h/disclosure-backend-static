@@ -10,9 +10,9 @@
     "Within Oakland": 1461040.2000000002
   },
   "oakland-2018": {
-    "Within Oakland": 1075692.32,
-    "Within California": 1111903.0899999999,
-    "Out of State": 330705.0
+    "Within Oakland": 1579843.69,
+    "Within California": 1632135.54,
+    "Out of State": 427616.67
   },
   "oakland-june-2018": {
     "Out of State": 7200.0,
@@ -23,8 +23,8 @@
     "Within California": 100347.02
   },
   "sf-2018": {
-    "Within California": 302133.25,
-    "Out of State": 52000.0,
+    "Out of State": 52025.0,
+    "Within California": 308058.25,
     "Within Oakland": 8250.0
   },
   "sf-june-2018": {

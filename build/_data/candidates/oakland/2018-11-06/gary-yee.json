@@ -1,10 +1,10 @@
 {
-  "id": 27,
+  "id": 62,
   "name": "Gary Yee",
   "photo_url": "gary-yee.png",
   "website_url": "http://www.yee4schools.com/",
   "twitter_url": null,
-  "votersedge_url": null,
+  "votersedge_url": "https://votersedge.org/ca/en/ballot/election/area/73/contests/contest/17364/candidate/139863?\u0026county=alameda%20county\u0026election_authority_id=1",
   "first_name": "Gary",
   "last_name": "Yee",
   "ballot_item": 17,
@@ -17,33 +17,33 @@
   "party_affiliation": null,
   "filer_id": 1409088,
   "supporting_money": {
-    "contributions_received": 11600.0,
-    "total_contributions": 11600.0,
-    "total_expenditures": null,
-    "total_loans_received": null,
-    "total_supporting_independent": 31644.0,
+    "contributions_received": 15550.0,
+    "total_contributions": 15550.0,
+    "total_expenditures": 6045.73,
+    "total_loans_received": 5000.0,
+    "total_supporting_independent": 82265.73,
     "support_list": [
       {
-        "Total": 4291.0,
-        "Exp_Date": "2018-08-29",
-        "Filer_ID": 1409088,
-        "Filer_NamL": "Families and Educators for Public Education, Sponsored by GO Public Schools Advocates"
-      },
-      {
-        "Total": 27353.0,
-        "Exp_Date": "2018-09-08",
+        "Total": 82265.73,
         "Filer_ID": 1409088,
         "Filer_NamL": "Families and Educators for Public Education, Sponsored by GO Public Schools Advocates"
       }
     ],
     "contributions_by_type": {
-      "Self Funding": 10000.0,
-      "Other (includes Businesses)": 1600.0
+      "Committee": 1600.0,
+      "Individual": 7350.0,
+      "Unitemized": 700.0,
+      "Self Funding": 900.0
     },
     "contributions_by_origin": {
-      "Out of State": 11600.0
+      "Out of State": 450.0,
+      "Within Oakland": 7450.0,
+      "Within California": 1950.0
     },
     "expenditures_by_type": {
+      "Campaign Consultants": 2137.95,
+      "Candidate Filing/Ballot Fees": 1000.0,
+      "Professional Services (Legal, Accounting)": 2734.53
     },
     "supporting_by_type": {
     }
@@ -56,14 +56,19 @@
 
     ]
   },
-  "contributions_received": 11600.0,
-  "total_contributions": 11600.0,
-  "total_expenditures": null,
-  "total_loans_received": null,
+  "contributions_received": 15550.0,
+  "total_contributions": 15550.0,
+  "total_expenditures": 6045.73,
+  "total_loans_received": 5000.0,
   "contributions_by_type": {
-    "Self Funding": 10000.0,
-    "Other (includes Businesses)": 1600.0
+    "Committee": 1600.0,
+    "Individual": 7350.0,
+    "Unitemized": 700.0,
+    "Self Funding": 900.0
   },
   "expenditures_by_type": {
+    "Campaign Consultants": 2137.95,
+    "Candidate Filing/Ballot Fees": 1000.0,
+    "Professional Services (Legal, Accounting)": 2734.53
   }
 }

@@ -1,10 +1,10 @@
 {
-  "id": 49,
+  "id": 47,
   "name": "Joseph Tanios",
   "photo_url": "Joseph-Tanios.png",
   "website_url": "https://www.joetanios.com/",
   "twitter_url": "taniosfor",
-  "votersedge_url": null,
+  "votersedge_url": "https://votersedge.org/ca/en/ballot/election/area/73/contests/contest/17340/candidate/139761?\u0026county=alameda%20county\u0026election_authority_id=1",
   "first_name": "Joseph",
   "last_name": "Tanios",
   "ballot_item": 14,
@@ -17,27 +17,35 @@
   "party_affiliation": null,
   "filer_id": 1406153,
   "supporting_money": {
-    "contributions_received": 26455.0,
-    "total_contributions": 26455.0,
-    "total_expenditures": 607.56,
+    "contributions_received": 32270.0,
+    "total_contributions": 32270.0,
+    "total_expenditures": 9872.16,
     "total_loans_received": 10000.0,
     "total_supporting_independent": 0.0,
     "support_list": [
 
     ],
     "contributions_by_type": {
-      "Individual": 11400.0,
-      "Unitemized": 555.0,
+      "Committee": 1600.0,
+      "Individual": 15200.0,
+      "Unitemized": 970.0,
       "Other (includes Businesses)": 4500.0
     },
     "contributions_by_origin": {
       "Out of State": 600.0,
-      "Within Oakland": 6650.0,
-      "Within California": 8650.0
+      "Within Oakland": 8700.0,
+      "Within California": 12000.0
     },
     "expenditures_by_type": {
-      "Fundraising Events": 211.03,
-      "Professional Services (Legal, Accounting)": 328.03
+      "Print Ads": 200.0,
+      "Not Stated": 695.0,
+      "Contribution": 120.0,
+      "Civic Donations": 200.0,
+      "Fundraising Events": 321.1,
+      "Campaign Paraphernalia/Misc.": 5307.12,
+      "Candidate Filing/Ballot Fees": 1000.0,
+      "Campaign Literature and Mailings": 188.41,
+      "Professional Services (Legal, Accounting)": 1674.03
     },
     "supporting_by_type": {
     }
@@ -50,17 +58,25 @@
 
     ]
   },
-  "contributions_received": 26455.0,
-  "total_contributions": 26455.0,
-  "total_expenditures": 607.56,
+  "contributions_received": 32270.0,
+  "total_contributions": 32270.0,
+  "total_expenditures": 9872.16,
   "total_loans_received": 10000.0,
   "contributions_by_type": {
-    "Individual": 11400.0,
-    "Unitemized": 555.0,
+    "Committee": 1600.0,
+    "Individual": 15200.0,
+    "Unitemized": 970.0,
     "Other (includes Businesses)": 4500.0
   },
   "expenditures_by_type": {
-    "Fundraising Events": 211.03,
-    "Professional Services (Legal, Accounting)": 328.03
+    "Print Ads": 200.0,
+    "Not Stated": 695.0,
+    "Contribution": 120.0,
+    "Civic Donations": 200.0,
+    "Fundraising Events": 321.1,
+    "Campaign Paraphernalia/Misc.": 5307.12,
+    "Candidate Filing/Ballot Fees": 1000.0,
+    "Campaign Literature and Mailings": 188.41,
+    "Professional Services (Legal, Accounting)": 1674.03
   }
 }
